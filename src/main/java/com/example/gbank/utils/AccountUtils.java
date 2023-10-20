@@ -8,6 +8,16 @@ public class AccountUtils {
     public static final String ACCOUNT_EXISTS_MESSAGE="User already exists";
     public static final String ACCOUNT_CREATION_SUCCESS="002";
     public static final String ACCOUNT_CREATION_SUCCESS_MESSAGE="Account has been created successfully";
+    public static final String ACCOUNT_NOT_EXIST_CODE = "003";
+    public static final String ACCOUNT_NOT_EXIST_MESSAGE = "Account doesn't Exist";
+    public static final String ACCOUNT_FOUND_CODE = "004";
+    public static final String ACCOUNT_FOUND_SUCCESS = "Account found";
+    public static final String ACCOUNT_CREDITED_SUCCESS = "005";
+    public static final String ACCOUNT_CREDITED_SUCCESS_MESSAGE = "Account credited Successfully";
+    public static final String INSUFFICIENT_BALANCE_CODE = "006";
+    public static final String INSUFFICIENT_BALANCE_MESSAGE = "Insufficient Balance";
+    public static final String ACCOUNT_DEBITED_SUCCESS = "007";
+    public static final String ACCOUNT_DEBITED_SUCCESS_MESSAGE = "Account debited Successfully";
 
 
     //here I am generating I wish to generate random account numbers with the first 4 digits being the \
